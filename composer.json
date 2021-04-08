@@ -1,0 +1,19 @@
+{
+    "name": "goldfeesh/contact",
+    "description": "A very simple contact package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IT Guy",
+            "email": "dev@goldfeesh.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Goldfeesh\\Contact\\": "src/"
+      }
+    }
+}
