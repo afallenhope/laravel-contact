@@ -1,6 +1,6 @@
 <?php
 
-namespace Goldfeesh\Contact\Models;
+namespace Goldfeesh\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
